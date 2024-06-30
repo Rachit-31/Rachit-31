@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Official College Website IIIT Una](https://iiitu.me/)
 
-- 💼 I’m looking for internship opportunities in **web development**
+- 💼 I’m looking for internship opportunities in **web development** and **software development**
 
 - 👯 I’m looking to collaborate on **open-source projects related to web development.**
 
