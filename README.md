@@ -28,6 +28,6 @@
   <a href="https://codeforces.com/profile/rachitjainjaipur" target="_blank" style="text-decoration: none;"><img src="https://sta.codeforces.com/s/96481/favicon-16x16.png" alt="Codeforces" width="20" height="20"/> Codeforces</a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachit-31&show_icons=true&locale=en" alt="rachit-31" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-31&" alt="rachit-31" /></p>
