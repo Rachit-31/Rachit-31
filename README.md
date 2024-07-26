@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachit-31" alt="rachit-31" /></a> </p>
 
-- 🔭 I’m currently working on [Official College Website IIIT Una](https://iiitu.me/).
+- 🔭 My Latest Project [Official College Website IIIT Una](https://iiitu.me/).
 
 - 💼 I’m looking for internship opportunities in **web development** and **software development.**
 
