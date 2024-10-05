@@ -31,3 +31,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit-31&" alt="rachit-31" /></p>
+[![An image of @rachit31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rachit31)](https://holopin.io/@rachit31)
