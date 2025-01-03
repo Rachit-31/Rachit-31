@@ -25,7 +25,7 @@
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
   <a href="https://www.codechef.com/users/rachit_31" target="_blank" style="text-decoration: none;"><img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" alt="CodeChef" width="20" height="20"/> CodeChef</a><br>
-  <a href="https://codeforces.com/profile/rachitjainjaipur" target="_blank" style="text-decoration: none;"><img src="https://sta.codeforces.com/s/96481/favicon-16x16.png" alt="Codeforces" width="20" height="20"/> Codeforces</a>
+<!--   <a href="https://codeforces.com/profile/rachitjainjaipur" target="_blank" style="text-decoration: none;"><img src="https://sta.codeforces.com/s/96481/favicon-16x16.png" alt="Codeforces" width="20" height="20"/> Codeforces</a> -->
 </p>
 
 
